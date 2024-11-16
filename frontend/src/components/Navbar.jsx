@@ -33,7 +33,7 @@ const Navbar = () => {
                     <p>COLLECTION</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden' />
                 </NavLink>
-                <a href="https://google.com" target="_blank" rel="noopener noreferrer" className='flex flex-col items-center gap-1'>
+                <a href="https://spyne-task-xlk8.vercel.app/" target="_blank" rel="noopener noreferrer" className='flex flex-col items-center gap-1'>
                     <p>ADD CAR</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden' />
                 </a>
